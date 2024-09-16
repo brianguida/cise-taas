@@ -1,0 +1,42 @@
+[Sun Aug 25 03:48:01.831241 2024] [lbmethod_heartbeat:notice] [pid 986] AH02282: No slotmem from mod_heartmonitor
+[Sun Aug 25 03:48:01.832480 2024] [ssl:warn] [pid 986] AH02292: Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sun Aug 25 03:48:01.836326 2024] [mpm_prefork:notice] [pid 986] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_wsgi/4.6.8 Python/3.6 mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sun Aug 25 03:48:01.836340 2024] [core:notice] [pid 986] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Aug 30 15:02:36.935627 2024] [core:error] [pid 117291] [client 10.241.174.114:35898] AH00126: Invalid URI in request GET /../../../../../../../../../../../../windows/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.938638 2024] [core:error] [pid 117294] [client 10.241.174.114:35918] AH00126: Invalid URI in request GET /../../../../../../../../../../../../winnt/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.939963 2024] [core:error] [pid 115107] [client 10.241.174.114:35922] AH00126: Invalid URI in request GET ../../../../../../../../../../../../windows/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.942758 2024] [core:error] [pid 117295] [client 10.241.174.114:35930] AH00126: Invalid URI in request GET ../../../../../../../../../../../../winnt/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.944484 2024] [core:error] [pid 117617] [client 10.241.174.114:35940] AH00126: Invalid URI in request GET ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.949154 2024] [core:error] [pid 117291] [client 10.241.174.114:35952] AH00126: Invalid URI in request GET ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\winnt\\win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.977842 2024] [core:error] [pid 117291] [client 10.241.174.114:36016] AH00126: Invalid URI in request GET /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/windows/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.979803 2024] [core:error] [pid 115107] [client 10.241.174.114:36044] AH00126: Invalid URI in request GET /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/winnt/win.ini HTTP/1.1
+[Fri Aug 30 15:02:36.989948 2024] [core:error] [pid 117294] [client 10.241.174.114:36054] AH00126: Invalid URI in request GET %5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwinnt%5cwin.ini HTTP/1.1
+[Fri Aug 30 15:02:37.006107 2024] [core:error] [pid 117617] [client 10.241.174.114:36082] AH00126: Invalid URI in request GET /././././././../../../../../windows/win.ini HTTP/1.1
+[Fri Aug 30 15:02:37.007943 2024] [core:error] [pid 117291] [client 10.241.174.114:36128] AH00126: Invalid URI in request GET /././././././../../../../../winnt/win.ini HTTP/1.1
+[Fri Aug 30 15:02:37.010304 2024] [core:error] [pid 115356] [client 10.241.174.114:36130] AH00126: Invalid URI in request GET .\\.\\.\\.\\.\\.\\.\\.\\.\\.\\/windows/win.ini HTTP/1.1
+[Fri Aug 30 15:02:37.013522 2024] [core:error] [pid 115107] [client 10.241.174.114:36142] AH00126: Invalid URI in request GET .\\.\\.\\.\\.\\.\\.\\.\\.\\.\\/winnt/win.ini HTTP/1.1
+[Fri Aug 30 15:02:37.047701 2024] [core:error] [pid 117294] [client 10.241.174.114:36216] AH00126: Invalid URI in request GET /../../../../../../../../../../../../etc/passwd HTTP/1.1
+[Fri Aug 30 15:02:37.049319 2024] [core:error] [pid 117617] [client 10.241.174.114:36232] AH00126: Invalid URI in request GET /./../../../../../../../../../../../etc/passwd HTTP/1.1
+[Fri Aug 30 15:02:37.052359 2024] [core:error] [pid 117291] [client 10.241.174.114:36236] AH00126: Invalid URI in request GET //../../../../../../../../../../../../etc/passwd HTTP/1.1
+[Fri Aug 30 15:02:37.056059 2024] [core:error] [pid 115356] [client 10.241.174.114:36246] AH00126: Invalid URI in request GET /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd HTTP/1.1
+[Fri Aug 30 15:02:37.062704 2024] [core:error] [pid 117294] [client 10.241.174.114:36274] AH00126: Invalid URI in request GET /././././././../../../../../etc/passwd HTTP/1.1
+[Fri Aug 30 15:02:37.862633 2024] [core:error] [pid 108256] [client 10.241.174.114:38254] AH00126: Invalid URI in request GET ..\\..\\..\\..\\..\\..\\windows\\win.ini HTTP/1.1
+[Fri Aug 30 15:02:37.864754 2024] [core:error] [pid 117755] [client 10.241.174.114:38260] AH00126: Invalid URI in request GET ..\\..\\..\\..\\..\\..\\winnt\\win.ini HTTP/1.1
+[Fri Aug 30 15:02:41.423773 2024] [core:error] [pid 115107] [client 10.241.174.114:46508] AH00126: Invalid URI in request GET c:\\boot.ini HTTP/1.1
+[Fri Aug 30 15:02:47.083682 2024] [core:error] [pid 117294] [client 10.241.174.114:33652] AH00126: Invalid URI in request GET admin/index.php HTTP/1.1
+[Fri Aug 30 15:02:52.022514 2024] [core:error] [pid 117617] [client 10.241.174.114:49936] AH00126: Invalid URI in request GET multihtml.pl?multi=/etc/passwd%00html HTTP/1.1
+[Fri Aug 30 15:02:56.608172 2024] [core:error] [pid 117617] [client 10.241.174.114:40524] AH00126: Invalid URI in request GET /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd HTTP/1.1
+[Fri Aug 30 15:03:00.532239 2024] [core:error] [pid 117294] [client 10.241.174.114:55088] AH00126: Invalid URI in request GET <script>cross_site_scripting.nasl</script> HTTP/1.1
+[Fri Aug 30 15:03:00.556601 2024] [core:error] [pid 108256] [client 10.241.174.114:55342] AH00126: Invalid URI in request GET <script>document.cookie=%22testhycr=5560;%22</script> HTTP/1.1
+[Fri Aug 30 15:03:00.573119 2024] [core:error] [pid 117617] [client 10.241.174.114:55564] AH00126: Invalid URI in request GET <meta%20http-equiv=Set-Cookie%20content=%22testhycr=5560%22> HTTP/1.1
+[Fri Aug 30 15:03:23.672143 2024] [core:error] [pid 117295] [client 10.241.174.114:54922] AH00126: Invalid URI in request GET /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/etc/passwd HTTP/1.1
+[Fri Aug 30 15:03:43.888991 2024] [core:error] [pid 115356] [client 10.241.174.114:56302] AH00126: Invalid URI in request GET %24%7B%7B57550614+16044095%7D%7D// HTTP/1.1
+[Fri Aug 30 15:03:46.249209 2024] [core:error] [pid 117294] [client 10.241.174.114:59234] AH00126: Invalid URI in request GET faq.php?skin=../../admin/manager&tplpath=admin HTTP/1.1
+[Fri Aug 30 15:03:47.319175 2024] [core:error] [pid 117617] [client 10.241.174.114:60586] AH00126: Invalid URI in request GET /././.. HTTP/1.1
+[Fri Aug 30 15:03:47.320658 2024] [core:error] [pid 115356] [client 10.241.174.114:60590] AH00126: Invalid URI in request GET ././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././../../../../../../../../ HTTP/1.1
+[Sat Aug 31 03:20:02.149434 2024] [mpm_prefork:notice] [pid 986] AH00171: Graceful restart requested, doing restart
+[Sat Aug 31 03:20:02.372826 2024] [lbmethod_heartbeat:notice] [pid 986] AH02282: No slotmem from mod_heartmonitor
+[Sat Aug 31 03:20:02.373930 2024] [ssl:warn] [pid 986] AH02292: Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Sat Aug 31 03:20:02.378313 2024] [mpm_prefork:notice] [pid 986] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_wsgi/4.6.8 Python/3.6 mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sat Aug 31 03:20:02.378329 2024] [core:notice] [pid 986] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Sep 01 03:41:01.555452 2024] [mpm_prefork:notice] [pid 986] AH00171: Graceful restart requested, doing restart

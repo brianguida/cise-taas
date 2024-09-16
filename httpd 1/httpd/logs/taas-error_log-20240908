@@ -1,0 +1,28 @@
+[Fri Sep 06 15:07:12.732368 2024] [ssl:error] [pid 125261] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:07:29.400638 2024] [ssl:error] [pid 125255] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:03.312813 2024] [ssl:error] [pid 125255] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:04.720448 2024] [ssl:error] [pid 125255] AH02032: Hostname taas-prod.cise.ufl.edu provided via SNI and hostname 10.36.202.18 provided via HTTP are different
+[Fri Sep 06 15:09:05.568038 2024] [ssl:error] [pid 2857] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:05.580951 2024] [ssl:error] [pid 125255] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:05.585568 2024] [ssl:error] [pid 123728] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:07.106847 2024] [ssl:error] [pid 125261] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:07.119768 2024] [ssl:error] [pid 128959] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:12.737525 2024] [ssl:error] [pid 124152] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:12.744707 2024] [ssl:error] [pid 4071] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:12.748954 2024] [ssl:error] [pid 123729] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:12.885878 2024] [ssl:error] [pid 123729] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:15.609221 2024] [ssl:error] [pid 125258] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:15.901579 2024] [ssl:error] [pid 124152] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:15.905508 2024] [ssl:error] [pid 123729] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.218115 2024] [ssl:error] [pid 4071] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.221574 2024] [ssl:error] [pid 124152] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.225251 2024] [ssl:error] [pid 1139] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.228924 2024] [ssl:error] [pid 125261] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.232355 2024] [ssl:error] [pid 125258] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.235878 2024] [ssl:error] [pid 128959] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:18.795015 2024] [ssl:error] [pid 124152] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:09:26.325639 2024] [ssl:error] [pid 123729] AH02032: Hostname taas-prod.cise.ufl.edu provided via SNI and hostname horde.webmail.taas-prod.cise.ufl.edu provided via HTTP are different
+[Fri Sep 06 15:10:15.984509 2024] [ssl:error] [pid 123729] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:10:47.472500 2024] [ssl:error] [pid 123728] AH02032: Hostname taas-prod.cise.ufl.edu provided via SNI and hostname nessus.org provided via HTTP are different
+[Fri Sep 06 15:10:47.533010 2024] [ssl:error] [pid 125255] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
+[Fri Sep 06 15:10:49.007373 2024] [ssl:error] [pid 2857] AH02031: Hostname taas-prod.cise.ufl.edu provided via SNI, but no hostname provided in HTTP request
