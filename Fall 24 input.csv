@@ -1,0 +1,77 @@
+Prefix,Title,Current Enrollment,Maximum Enrollment,Number of Sections,Professor Teaching,GLID
+CAP 3027,Intr Digtl Art/Scienc,109,110,1,Benda William B,brett.benda
+CAP 3027,Intr Digtl Art/Scienc,30,249,1,Fox Joshua E,joshuafox
+CAP 3220,Intro Compu-Aid Model,125,126,1,Zhang Rong,rzhang1
+CAP 4641,Natural Language Processing,156,156,2,Dorr Bonnie J,bonniejdorr
+CAP 4770,Intro to Data Science,103,165,1,Ranka Sanjay,sranka
+CAP 4773,Projects Data Science,7,30,1,Wang Zhe,daisyw
+CAP 5100,Human-Comp Interact,66,240,1,Ruiz Jaime,jaime.ruiz
+CAP 5108,Research Mthd for Hcc:  ,13,65,1,Dorley Emmanuel Johnson,edorley
+CAP 5416,Computer Vision,34,52,1,Vemuri Baba C,vemuri
+CAP 5510,Bioinformatics,82,81,1,Kahveci Tamer,tkahveci
+CAP 5705,Computer Graphics,14,81,1,Peters Jorg,jorggato
+CAP 5771,Intro to Data Science,214,240,1,Jiang Zhe,zhe.jiang
+CAP 6617,Adv Machine Learning,25,102,1,Rangarajan Anand,anandr
+CAP 6779,Projects Data Science,4,30,1,Wang Zhe,daisyw
+CDA 3101,Intro to Compu Orgnzn,522,605,11,Resch Cheryl Lynn,cheryl.resch
+CDA 3101,Intro to Compu Orgnzn,71,249,1,Markelon Sam A,smarkelon
+CDA 4102,Computer Architecture,33,75,1,Mishra Prabhat Kumar,prabhat
+CDA 5155,Compu Architect Prin,17,75,1,Mishra Prabhat Kumar,prabhat
+CEN 3031,Intro Software Engr,475,630,18,Rani Neha,neharani
+CEN 3031,Intro Software Engr,36,249,1,Zhou Lisha,lzhou1
+CEN 4072,Softwre Tsting Verifi,20,20,1,Thebaut Stephen M,smt3
+CEN 4721,Human-Comp Interact,84,84,1,Rani Neha,neharani
+CEN 4722,Ux Design,102,102,1,Maxim  Andrew,amaxim
+CEN 5035,Software Engineering,84,84,1,Thebaut Stephen M,smt3
+CEN 5728,Ux Design,96,96,1,Gardner-McCune Christina,gmccune
+CEN 6070,Software Test/Verifi,20,20,1,Thebaut Stephen M,smt3
+CGS 4144,Introduction to Bioinformatics:  ,79,102,1,Graim Kiley S,kgraim
+CIS 4204,Penetration Testing,63,65,1,Wilson Joseph N,jnw
+CIS 4204,Penetration Testing,65,75,1,Wilson Joseph N,jnw
+CIS 4301,Info and Database Sys 1,333,333,1,Al-Saad Mohammad,malsaad
+CIS 4301,Info and Database Sys 1,101,249,1,Schneider Markus Paul,anmasch
+CIS 4715,CS Teaching Learning,23,60,1,Link Michael Lawrence,michael.link
+CIS 4715,CS Teaching Learning,1,30,1,Link Michael Lawrence,michael.link
+CIS 4930,Special Topics: AI and Neuroscience,30,30,1,Banerjee Arunava,arunava
+CIS 4930,Special Topics: Intro to Machine Learning,100,100,1,Al-Saad Mohammad,malsaad
+CIS 4930,Special Topics: Collective Action Problem,57,76,1,Sitharam Meera,sitharam
+CIS 4930,Special Topics: Enterprise Software Eng.,20,40,1,Esmaeili Shaghayegh,esmaeili
+CIS 4930,Special Topics: Probability and Computing,48,48,1,Shrimpton Thomas,teshrim
+CIS 4930,Special Topics: Competitive Programming,75,75,1,Zhang Rong,rzhang1
+CIS 4930,Special Topics: Cyber-Physical System Security,53,53,1,Rampazzi Sara,srampazzi
+CIS 4930,Special Topics: Adversarial Cyber Tradecraft,41,42,1,Wilson Joseph N,jnw
+CIS 4930,Special Topics: Enterprise Software Eng.,127,200,1,Esmaeili Shaghayegh,esmaeili
+CIS 6930,Special Topics: Collective Action Problem,13,15,1,Sitharam Meera,sitharam
+CIS 6930,Special Topics: Probability and Computing,22,48,1,Shrimpton Thomas,teshrim
+CIS 6930,Special Topics: Data Engineering,96,96,1,Grant Christan Earl,christan
+CIS 6930,Special Topics: A.I. Ethics for Tech Leaders,29,28,1,Schmer-Galunder Sonja,s.schmergalunder
+CIS 6930,Special Topics: Cyberphysical Sys. Securities,52,52,1,Rampazzi Sara,srampazzi
+CIS 6930,Special Topics: Measurement & Learning in Net,1,30,1,Chen Shigang,sgchen
+CIS 6935,Graduate Seminar,27,114,1,Kavalan Jonathan C L,clliu
+CIS 6935,Graduate Seminar,0,20,1,Anthony Lisa,lisa.anthony
+CNT 4007,Compu Netwrk Fundamen,308,309,1,Traynor Patrick,traynor
+CNT 4731,Multimedia Network Principles,6,111,1,Kavalan Jonathan C L,clliu
+CNT 5106C,Computer Networks,105,229,1,Xia Ye,yx1
+CNT 5410,Compu and Ntwk Security,70,286,1,Bindschaedler Vincent Christophe,vbindschaedler
+CNT 6107,Adv Computer Networks,75,75,1,Kavalan Jonathan C L,clliu
+COP 3502C,Prog Fundamentals 1,535,728,26,Aggarwal Ashish,ashishjuit
+COP 3502C,Prog Fundamentals 1,138,249,2,Zhou Lisha,lzhou1
+COP 3503C,Prog Fundamentals 2,276,560,16,Tavassoli Fatemeh,ftavassoli
+COP 3503C,Prog Fundamentals 2,69,249,2,Fox Joshua E,joshuafox
+COP 3504C,Adv Prog Fundamentals,80,210,6,Tavassoli Fatemeh,ftavassoli
+COP 3530,Data Struc/Algorithms,581,665,13,Kapoor Amanpreet,kapooramanpreet
+COP 3530,Data Struc/Algorithms,79,249,1,Zhou Lisha,lzhou1
+COP 4020,Program Lang Concepts,310,310,1,Dobbins Peter J,ichabod
+COP 4020,Program Lang Concepts,85,249,1,Dobbins Peter J,ichabod
+COP 4331,Object-Orient Program,41,90,1,Anderson William B,william.anderson
+COP 4533,Algorithm Abstraction & Design,333,333,1,Ungor Alper,ungor
+COP 4533,Algorithm Abstraction & Design,73,249,1,Ungor Alper,ungor
+COP 4600,Operating Systems,640,650,13,Gomes De Siqueira Alexandre,agomesdesiqueira
+COP 4600,Operating Systems,82,249,1,Zhang Yichi,yichi.zhang
+COP 5536,Adv Data Structures,156,265,1,Sahni Sartaj Kumar,sahni
+COP 5615,Dist Oper Sys Princ,225,310,1,Dobra Alin Viorel,adobra
+COP 5725,Data Base Manage Sys,27,165,1,Schneider Markus Paul,anmasch
+COT 3100,Appli Discrete Struc,372,500,12,Entezari Alireza,entezari
+COT 3100,Appli Discrete Struc,60,249,2,Banerjee Arunava,arunava
+COT 5405,Analys of Algorithms,77,229,1,Boucher Christina A,christinaboucher
+COT 5615,Math Intelligent Sys,61,286,1,Huang Kejun,kejun.huang
