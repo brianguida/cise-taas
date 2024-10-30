@@ -1,0 +1,64 @@
+Prefix,Title,Current Enrollment,Maximum Enrollment,Number of Sections,Professor Teaching,GLID
+CAI4104,Machine Learning Engineering,0,100,1,"Bindschaedler,Vincent Christophe",vbindschaedler@ufl.edu
+CAI6307,Natural Language Processing,0,80,2,"Dorr,Bonnie J",bonniejdorr@ufl.edu
+CAP3020,Thry/Prct Multi Prod,0,96,1,"Benda,William B",brett.benda@ufl.edu
+CAP3020,Thry/Prct Multi Prod,0,249,1,"Fox,Joshua E",joshuafox@ufl.edu
+CAP3032,Interact Mod/Animat 1,0,126,1,"Zhang,Rong",rzhang1@ufl.edu
+CAP3034,Intr Comp-Aid Animati,0,126,1,"Zhang,Rong",rzhang1@ufl.edu
+CAP4053,Ai for Computer Games,0,30,1,TBD,TBD
+CAP4136,Malware Reverse Engineering,0,55,2,"Wilson,Joseph N",jnw@ufl.edu
+CAP4730,Compu Stru Graphics,0,96,2,"Peters,Jorg",jorggato@ufl.edu
+CAP4770,Intro to Data Science,0,100,1,"Wang,Zhe",daisyw@ufl.edu
+CAP5100,Human-Comp Interact,0,100,1,"Ruiz,Jaime",jaime.ruiz@ufl.edu
+CAP5108,Research Mthd for Hcc:  ,0,100,1,"Dorley,Emmanuel Johnson",edorley@ufl.edu
+CAP6137,Malware Rev Engr,0,17,1,"Wilson,Joseph N",jnw@ufl.edu
+CAP6610,Machine Learning,0,156,1,"Huang,Kejun",kejun.huang@ufl.edu
+CDA3101,Intro to Compu Orgnzn,0,456,15,"Resch,Cheryl Lynn",cheryl.resch@ufl.edu
+CEN3031,Intro Software Engr,0,595,17,"Rani,Neha",neharani@ufl.edu
+CEN3031,Intro Software Engr,0,100,1,"Zhou,Lisha",lzhou1@ufl.edu
+CEN4721,Human-Comp Interact,0,97,1,"McMullen,Kyla",drkyla@ufl.edu
+CEN4722,Ux Design,0,96,2,"Gardner-McCune,Christina",gmccune@ufl.edu
+CEN5035,Software Engineering,0,165,2,"Dobra,Alin Viorel",adobra@ufl.edu
+CIS4301,Info and Database Sys 1,0,393,2,"Al-Saad,Mohammad",malsaad@ufl.edu
+CIS4301,Info and Database Sys 1,0,100,1,"Wang,Zhe",daisyw@ufl.edu
+CIS4360,Comp and Info Sec,0,75,1,"Rampazzi,Sara",srampazzi@ufl.edu
+CIS4715,CS Teaching Learning,0,42,1,"Blanchard,Jeremiah J",jjb@eng.ufl.edu
+CIS4914,Senior Project:  ,0,400,1,"Thomas,Sanethia V",sanethiat@ufl.edu
+CIS4914,Senior Project:  ,0,75,1,"Thomas,Sanethia V",sanethiat@ufl.edu
+CIS4930,Special Topics: Adversarial Cyber Tradecraft,0,30,1,"Wilson,Joseph N",jnw@ufl.edu
+CIS4930,"Special Topics: ML for Net, Cloud, & Com Sys",0,50,1,"Xia,Ye",yx1@ufl.edu
+CIS4930,Special Topics: Internet Storage Systems,0,50,1,"Kavalan,Jonathan C L",clliu@ufl.edu
+CIS4930,Special Topics: Internet Programming,0,97,1,"Ritzhaupt,Albert D",aritzhaupt@coe.ufl.edu
+CIS4930,Special Topics: Intro to Machine Learning,0,102,1,"Al-Saad,Mohammad",malsaad@ufl.edu
+CIS5371,Intro to Cryptology,0,102,2,"Shrimpton,Thomas",teshrim@ufl.edu
+CIS6930,Special Topics: NLP Applications,0,188,2,"Dorr,Bonnie J",bonniejdorr@ufl.edu
+CIS6930,Special Topics: Fundamentals in Blockchain,0,100,1,"Thai,My Tra",mythai@cise.ufl.edu
+CIS6930,Special Topics: Machine Learning in Genomics,0,50,1,"Graim,Kiley S",kgraim@ufl.edu
+CIS6930,Special Topics: AI and Consciousness,0,30,1,"Rangarajan,Anand",anand@cise.ufl.edu
+CIS6930,Special Topics: Internet Storage Systems,0,50,1,"Kavalan,Jonathan C L",clliu@ufl.edu
+CIS6930,Special Topics: HC AI IF for Sport & Wellness,0,100,1,"Boyer,Kristy",keboyer@ufl.edu
+CIS6930,Special Topics: Generating  Expressiveness,0,80,1,"Jain,Eakta",ejain@ufl.edu
+CIS6930,Special Topics: Data Engineering,0,96,1,"Grant,Christan Earl",christan@ufl.edu
+CIS6930,"Special Topics: ML for Net, Cloud, & Com Sys",0,50,1,"Xia,Ye",yx1@ufl.edu
+CIS6935,Graduate Seminar,0,30,1,TBD,TBD
+CIS6935,Graduate Seminar,0,100,1,"Ungor,Alper",ungor@ufl.edu
+CNT4007,Compu Netwrk Fundamen,0,229,2,"Chen,Shigang",sgchen@ufl.edu
+CNT5106C,Computer Networks,0,286,2,"Xia,Ye",yx1@ufl.edu
+COP3502C,Prog Fundamentals 1,0,679,20,"Aggarwal,Ashish",ashishjuit@ufl.edu
+COP3502C,Prog Fundamentals 1,0,145,2,"Zhou,Lisha",lzhou1@ufl.edu
+COP3503C,Prog Fundamentals 2,0,679,20,"Tavassoli,Fatemeh",ftavassoli@ufl.edu
+COP3503C,Prog Fundamentals 2,0,160,2,"Fox,Joshua E",joshuafox@ufl.edu
+COP3504C,Adv Prog Fundamentals,0,70,2,"Link,Michael Lawrence",michael.link@ufl.edu
+COP3530,Data Struc/Algorithms,0,566,10,"Kapoor,Amanpreet",kapooramanpreet@ufl.edu
+COP3530,Data Struc/Algorithms,0,110,2,"Kapoor,Amanpreet",kapooramanpreet@ufl.edu
+COP4020,Program Lang Concepts,0,333,2,"Anderson,William B",william.anderson@ufl.edu
+COP4020,Program Lang Concepts,0,100,1,"Dhawan,Aashish",aashish.dhawan@ufl.edu
+COP4533,Algorithm Abstraction & Design,0,240,1,"Boucher,Christina A",christinaboucher@ufl.edu
+COP4533,Algorithm Abstraction & Design,0,50,1,"Zhou,Lisha",lzhou1@ufl.edu
+COP4600,Operating Systems,0,655,12,"Gomes De Siqueira,Alexandre",agomesdesiqueira@ufl.edu
+COP4600,Operating Systems,0,100,1,"Gomes De Siqueira,Alexandre",agomesdesiqueira@ufl.edu
+COP5536,Adv Data Structures,0,310,2,"Sahni,Sartaj Kumar",sahni@cise.ufl.edu
+COP5556,Program Language Prin,0,165,1,"Dobra,Alin Viorel",adobra@ufl.edu
+COT3100,Appli Discrete Struc,0,660,12,"Dobbins,Peter J",ichabod@ufl.edu
+COT3100,Appli Discrete Struc,0,110,2,"Magda,David Allen",magdad@ufl.edu
+COT5520,Computationl Geometry,0,100,1,"Ungor,Alper",ungor@ufl.edu
